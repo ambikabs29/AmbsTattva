@@ -1,0 +1,9 @@
+{
+  "name": "Ambs Tattva - Personal Hub",
+  "description": "A professional personal brand platform featuring a handmade store, online tuition center, course academy, SaaS showcase, blog, and portfolio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
